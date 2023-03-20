@@ -1,0 +1,57 @@
+header {
+    margin-left: 35px;
+    border: 0px;
+    padding: 0px;
+    width: 800px;  
+    display: flex;
+    justify-content: center;
+    color: rgb(91, 33, 163);
+    filter:drop-shadow(5px 10px 4px #3e3e41);
+    font-family: cursive;
+    font-size: medium;
+}
+
+h1 {
+    background-image: url('./Images/pinned\ note.png');
+    margin-top: 10px;
+    padding: 10px;
+    width: 700px;
+    height: 90px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+
+}
+
+h2 {
+    width: 700px;   
+    filter:drop-shadow(10px 10px 4px #3e3e41);
+    font-family: cursive;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.list-category {
+    margin: 10px;
+    padding: 15px;
+    filter:drop-shadow(10px 10px 4px #3e3e41);
+    height: 170px;
+    width: 170px; 
+     
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+img {   
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;   
+    height: 170px;
+    width: 250px;   
+    filter:drop-shadow(10px 10px 4px #3e3e41);
+}
